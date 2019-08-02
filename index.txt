@@ -3,4 +3,8 @@ This is my second line.
 I want a vegan corndog! 
 Making one more change
 Creating a change
+<<<<<<< HEAD
 This is Juan's file.
+=======
+muahahah HACKED 
+>>>>>>> caeba7d4fe9aaa58e25bf5d00fb90e3fbe3194b1
